@@ -41,3 +41,7 @@ example
 # generated native folders
 /ios
 /android
+
+# Google Services / Firebase (Claves privadas)
+google-services.json
+android/app/google-services.json
